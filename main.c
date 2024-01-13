@@ -1,4 +1,6 @@
 // main.c
+//implementing functions
+
 #include "weather.h"
 #include <stdio.h>
 #include <stdlib.h>
